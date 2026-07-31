@@ -1,0 +1,20 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# SQLite database
+# db.sqlite3
+
+# VS Code
+.vscode/
+
+# Postman
+.postman/
+postman/
+
+# OS files
+.DS_Store
+Thumbs.db
